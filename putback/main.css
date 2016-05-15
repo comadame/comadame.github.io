@@ -1,0 +1,77 @@
+/* CSS Document */
+
+body {
+	font-family:Tahoma, Geneva, sans-serif;
+	padding-left: 15px;
+	padding-right: 15px;
+	background: #43cea2; /* fallback for old browsers */
+	background: -webkit-linear-gradient(#43cea2 , #185a9d); /* Chrome 10-25, Safari 5.1-6 */
+	background: linear-gradient(#43cea2 , #185a9d); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+color:#FFF;
+}
+
+h1 {
+   text-align: center;
+   color: #5278BE;
+   border-bottom: 3px solid #5278BE;
+   text-decoration: overline;
+   margin-top: 40px;
+
+ }
+
+.nav {
+	font-family:Tahoma, Geneva, sans-serif;
+	}
+	
+.nav2 {
+	font-family:Tahoma, Geneva, sans-serif;
+	}
+
+.nav3 {
+	font-family:Tahoma, Geneva, sans-serif;
+	}
+	
+.nav4 {
+	font-family:Tahoma, Geneva, sans-serif;
+	}
+
+#one {
+	margin-top: 30px;
+	font-size: 18px;
+	color: #5278BE;
+	font-weight: lighter;
+	letter-spacing: 0.8px;
+
+}
+
+#two{
+	font-size: 18px;
+	 text-indent: 50px;
+     font-family: "Times New Roman", Georgia, Serif;
+	 font-size: 18px;
+	 line-height: 180%;
+
+ } 
+
+#three{
+	font-size: 18px;
+	 font-family: "Times New Roman", Georgia, Serif;
+	  line-height: 180%;
+	  text-indent: 50px;
+	 }
+
+#four{
+	font-size: 18px;
+	 font-family: "Times New Roman", Georgia, Serif;
+	  line-height: 180%;
+	  text-indent: 50px;
+	  }
+
+#five{
+	 font-family: "Times New Roman", Georgia, Serif;
+	 font-style:italic;
+	 text-transform:capitalize;
+	 word-spacing: 5px;
+
+ 
+	}
